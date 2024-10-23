@@ -1,0 +1,5 @@
+Column Major Matrix:
+'LENOWT', 'imolio', 'amailn', 'mahvly', '   ii', '   aa', '    m'
+
+Total Length of All Names:
+29
